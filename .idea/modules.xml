@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buffer/buffer.iml" filepath="$PROJECT_DIR$/buffer/buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testBuffer.iml" filepath="$PROJECT_DIR$/testBuffer.iml" />
+    </modules>
+  </component>
+</project>
